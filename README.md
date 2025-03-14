@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there 👋 welcome to [mysite](https://kaikaixixi.xyz)
 
-<a href="https://captainwc.github.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true" />
-    <img alt="Star History Chart" src="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true" />
-  </picture>
-</a>
+<div style="display: flex; gap: 2px; justify-content: center; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainwc&layout=donut" alt="" style="max-width: 40%; height: 100%; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true" alt="" style="max-width: 60%; height: 100%; object-fit: cover;">
+</div>
 
 <!--
 **captainwc/captainwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
