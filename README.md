@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://captainwc.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true" />
+    <img alt="Star History Chart" src="https://github-readme-stats.vercel.app/api?username=captainwc&show_icons=true" />
+  </picture>
+</a>
+
 <!--
 **captainwc/captainwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
